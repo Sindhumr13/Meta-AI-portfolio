@@ -27,3 +27,7 @@ conversion funnel efficiency (room to optimize).
 • Total Budget: 2.5M: Total ad spends.
 
 • Avg Budget per Campaign: 50.7K: Suggests multiple campaigns were run.
+
+## Dashboard
+<a href "C:\Users\Sindhu M R\Desktop\project\Meta AI Dashboard.png">
+
