@@ -37,7 +37,7 @@ conversion funnel efficiency (room to optimize).
 ## Dashboard 
 <a href="https://github.com/Sindhumr13/Meta-AI-portfolio/blob/main/project/Meta%20AI%20Dashboard.png">Meta Ad Performance Analysis</a>
 
-##Screeshort
+## Screeshort
 <img width="1306" height="756" alt="Meta AI Dashboard" src="https://github.com/user-attachments/assets/c4c99cdc-7efd-4165-81b6-e0f04eeb3e62" />
 
 
