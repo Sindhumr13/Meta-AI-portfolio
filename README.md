@@ -28,9 +28,4 @@ conversion funnel efficiency (room to optimize).
 
 • Avg Budget per Campaign: 50.7K: Suggests multiple campaigns were run.
 
-## Dashboard
-git add .
-git commit -m "Added Meta AI Dashboard screenshot"
-git push
-
 
