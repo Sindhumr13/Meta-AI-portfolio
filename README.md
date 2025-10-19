@@ -30,5 +30,11 @@ conversion funnel efficiency (room to optimize).
 
 ## Dataset
 -<a href="https://github.com/Sindhumr13/Meta-AI-portfolio/blob/main/project/ad_events.csv">Event Dataset</a>
+-<a href="https://github.com/Sindhumr13/Meta-AI-portfolio/blob/main/project/ads.csv">Ads Dataset</a>
+-<a href="https://github.com/Sindhumr13/Meta-AI-portfolio/blob/main/project/campaigns.csv">Campaigns Dataset</a>
+-<a href="https://github.com/Sindhumr13/Meta-AI-portfolio/blob/main/project/users.csv">User Dataset</a>
+
+## Dashboard 
+<a href="https://github.com/Sindhumr13/Meta-AI-portfolio/blob/main/project/Meta%20AI%20Dashboard.png">Meta Ad Performance Analysis</a>
 
 
